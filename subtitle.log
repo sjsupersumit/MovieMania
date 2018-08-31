@@ -1,9 +1,0 @@
-INFO:root:Starting with the arguments....['/Users/sumit.jha/Documents/personal/SubtitleDownloader/src/subtitle_downloader.py', '/Users/sumit.jha/Videos']
-INFO:root:Tryin to read /Users/sumit.jha/Videos/Horrible Bosses 2 2014.mkv for hash Genration...
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.thesubdb.com
-INFO:root:couldn't found the subtitles..HTTP STATUS_CODE : 404
-INFO:root:Starting with the arguments....['/Users/sumit.jha/Documents/personal/SubtitleDownloader/src/subtitle_downloader.py', '/Users/sumit.jha/Videos']
-INFO:root:Tryin to read /Users/sumit.jha/Videos/Horrible Bosses 2 2014.mkv for hash Genration...
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.thesubdb.com
-INFO:root:couldn't found the subtitles..HTTP STATUS_CODE : 404
-INFO:root:Starting with the arguments....['/Users/sumit.jha/Documents/personal/SubtitleDownloader/src/subtitle_downloader.py', '/Users/sumit.jha/Downloads/Season 5/']
